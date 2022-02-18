@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Anurag
-####👨‍💻 A frontend/webGL developer from Mumbai, India<br/>Interested in project based work/long term collaboration  
+#### 👨‍💻 A frontend/webGL developer from Mumbai, India<br/>Interested in project based work/long term collaboration  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight" alt="anuragsr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight" alt="anuragsr" /></a> </p><br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p><br/><br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=anuragsr&show_icons=true&locale=en&theme=tokyonight" alt="anuragsr" /></p>
 
