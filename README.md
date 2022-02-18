@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight" alt="anuragsr" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p><br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=anuragsr&show_icons=true&locale=en&theme=tokyonight" alt="anuragsr" /></p>
 
@@ -17,5 +17,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='30'>](https://www.upwork.com/freelancers/~01d929751d145a05ea) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/anuragsr) &nbsp; 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/7867822) &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](envisagecyberart.in) &nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](anurag.131092@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://www.envisagecyberart.in) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:anurag.131092@gmail.com)  
