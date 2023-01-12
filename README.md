@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight" alt="anuragsr" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anuragsr" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=anuragsr&show_icons=true&locale=en&theme=tokyonight" alt="anuragsr" /></p>
+<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragsr&show_icons=true&locale=en&theme=tokyonight" alt="anuragsr" /></p>
 
 ##
 
