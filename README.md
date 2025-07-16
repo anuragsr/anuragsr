@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight&no-frame=true" alt="anuragsr" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=true" alt="anuragsr" /></p>
-
 ##
 
 #### 🛠 Languages / Tools / Frameworks:
