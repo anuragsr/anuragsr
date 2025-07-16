@@ -5,8 +5,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=anuragsr&show_icons=true&locale=en&layout=compact&theme=tokyonight&no-frame=true" alt="anuragsr" /></p>
 
-<p><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuragsr&show_icons=true&locale=en&theme=tokyonight&no-frame=true" alt="anuragsr" /></p>
-
 ##
 
 #### 🛠 Languages / Tools / Frameworks:
