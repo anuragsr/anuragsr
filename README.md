@@ -1,13 +1,12 @@
+## Hi 👋, I'm Anurag
+
+#### 👨‍💻 A frontend/webGL developer from Mumbai, India<br/>Interested in project based work/long term collaboration
+
 <style>
   [data-a11y-link-underlines=true] .markdown-body a{
     text-decoration: none;
   }
 </style>
-
-## Hi 👋, I'm Anurag
-
-#### 👨‍💻 A frontend/webGL developer from Mumbai, India<br/>Interested in project based work/long term collaboration
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragsr&theme=tokyonight&no-frame=true" alt="anuragsr" /></a> </p>
 
 ##
