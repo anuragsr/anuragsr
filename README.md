@@ -1,5 +1,5 @@
 <style>
-  a{
+  [data-a11y-link-underlines=true] .markdown-body a{
     text-decoration: none;
   }
 </style>
