@@ -18,8 +18,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://www.envisagecyberart.in) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:anurag.131092@gmail.com)
 
-##
-
 ## 💻 My Projects
 
 <details>
