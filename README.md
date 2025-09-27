@@ -24,6 +24,7 @@
 
 <details>
   <summary><h3 style="display: inline;">Websites / Portfolios</h3></summary>
+
 1.  [Youval Tayar Portfolio](https://envisagecyberart.in/projects/websites/youval/) `gsap` `backbone`
 
 1.  [Cloudbasiert (Live)](https://cloudbasiert.com) `react`
@@ -70,6 +71,7 @@
 </details>
 <details>
   <summary><h3 style="display: inline;">Landing Pages</h3></summary>
+
 1.  [Numitron](https://envisagecyberart.in/projects/landingpages/numitron/) `next.js` `tailwind` `gsap`
 
 1.  [Zynderia](https://envisagecyberart.in/projects/landingpages/zynderia/) `fullpage.js`
