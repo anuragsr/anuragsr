@@ -17,3 +17,83 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/7867822) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://www.envisagecyberart.in) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:anurag.131092@gmail.com)
+
+---
+
+## 💻 My Projects
+
+<details>
+  <summary><h3 style="display: inline;">Websites / Portfolios</h3></summary>
+  <br/>
+
+1.  [Youval Tayar Portfolio](https://envisagecyberart.in/projects/websites/youval/) `gsap` `backbone`
+
+1.  [Cloudbasiert (Live)](https://cloudbasiert.com) `react`
+
+    [Cloudbasiert](https://envisagecyberart.in/projects/websites/cloudbasiert/) `react`
+
+1.  [Irahealth](https://envisagecyberart.in/projects/websites/irahealth/) `angular`
+
+    [Irahealth Hindi](https://envisagecyberart.in/projects/websites/irahealth/translation) `angular` `translation` `i18n`
+
+1.  [Baby Progress (Version 2)](https://envisagecyberart.in/projects/websites/babyprogress-v2/) `angularjs`
+
+1.  [Baby Progress (Version 1)](https://envisagecyberart.in/projects/websites/babyprogress/) `angularjs`
+
+1.  [Agile Sense (Live)](https://www.agilesense.co.za/)
+
+    [Agile Sense](https://envisagecyberart.in/projects/agilesense/)
+
+1.  [Arati Website](https://aratikulkarni.in/) `react` `gatsy` `framer`
+
+1.  [INC Design Agency](https://inc-design-agency.vercel.app/) `react` `nextjs` `framer` `gsap`
+
+1.  [Anthony Sharpe](https://envisagecyberart.in/projects/websites/anthonysharpe/) `gsap` `barbajs`
+
+1.  [Mietminderung (Rent Reduction)](https://envisagecyberart.in/projects/websites/mietminderung/) `angularjs`
+
+1.  [Intelicto](https://envisagecyberart.in/projects/websites/intelicto/)
+
+1.  [Porfirio Art](https://envisagecyberart.in/projects/websites/porfirioart) `barbajs` `pixijs`
+
+1.  [MagicYou.me](https://magicyou.me/) `react` `tailwind` `nextjs`
+
+1.  [Sofia Borges Portfolio](https://envisagecyberart.in/projects/websites/sofia-portfolio/v2/) `barbajs` `gsap`
+
+    [Sofia Borges Portfolio Alternate](https://envisagecyberart.in/projects/websites/sofia-borges/) `tailwind`
+
+1.  [Healthy.ai](https://envisagecyberart.in/projects/websites/healthy.ai/) `gsap`
+
+1.  [Visa Advisory](https://envisagecyberart.in/projects/websites/visaadvisory/)
+
+1.  [EQ Offices](https://envisagecyberart.in/projects/websites/eqoffices/)
+
+1.  [Seed Volage](https://envisagecyberart.in/projects/websites/seed-corp/) `skrollr`
+
+## Landing Pages
+
+1.  [Numitron](https://envisagecyberart.in/projects/landingpages/numitron/) `next.js` `tailwind` `gsap`
+
+1.  [Zynderia](https://envisagecyberart.in/projects/landingpages/zynderia/) `fullpage.js`
+
+1.  [Bakuzone](https://bakuzone.com/) `bootstrap` `responsive`
+
+1.  [v360](https://envisagecyberart.in/projects/landingpages/v360/) `jquery`
+
+1.  [Cikguonair](https://envisagecyberart.in/projects/landingpages/cikguonair/) `gsap`
+
+1.  [Scipoeia](https://envisagecyberart.in/projects/landingpages/scipoeia/) `bootstrap`
+
+1.  [j'Adore](https://envisagecyberart.in/projects/landingpages/jadore/) `gsap` `scrolltrigger`
+
+1.  [Ted's Woodworking](https://envisagecyberart.in/projects/landingpages/teds-woodworking/) `jquery` `timer`
+
+1.  [Make My Money](https://envisagecyberart.in/projects/landingpages/makemymoney/) `jquery`
+
+1.  [Bikeroo Sale](https://envisagecyberart.in/projects/landingpages/coupon/) `jquery`
+
+1.  [Translate Landing Page](https://envisagecyberart.in/projects/landingpages/translate/) `jquery`
+
+1.  [Truesignal](https://envisagecyberart.in/projects/landingpages/truesignal/)
+
+</details>
