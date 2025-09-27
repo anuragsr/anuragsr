@@ -18,7 +18,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://www.envisagecyberart.in) &nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:anurag.131092@gmail.com)
 
---
+##
 
 ## 💻 My Projects
 
@@ -69,6 +69,7 @@
 
 1.  [Seed Volage](https://envisagecyberart.in/projects/websites/seed-corp/) `skrollr`
 </details>
+
 <details>
   <summary><h3>Landing Pages</h3></summary>
 
@@ -95,4 +96,246 @@
 1.  [Translate Landing Page](https://envisagecyberart.in/projects/landingpages/translate/) `jquery`
 
 1.  [Truesignal](https://envisagecyberart.in/projects/landingpages/truesignal/)
+</details>
+
+<details>
+  <summary><h3>Web Apps</h3></summary>
+
+1.  [Floorplan Editor](https://envisagecyberart.in/projects/applications/floorplan-editor-demo/) `pixijs`
+
+1.  [Slideshow Maker](https://envisagecyberart.in/projects/applications/slideshow/#/home?ext=test-user) `angularjs` `gsap`
+
+1.  [Cost Optimizer](https://envisagecyberart.in/projects/applications/cost-optimizer/) `pixijs`
+
+1.  [Contract Maker](https://envisagecyberart.in/projects/applications/contract/) `angularjs`
+
+1.  [Berger Virtual Painter](https://envisagecyberart.in/projects/applications/berger/virtual-painter.php) `pixijs` `angularjs` `gsap`
+
+1.  [Zynderia Property Detail](https://envisagecyberart.in/projects/applications/zynderia-property-detail/) `pixijs`
+
+1.  [Platzieren Menu Configurator](https://envisagecyberart.in/projects/applications/platzieren/) `angularjs`
+
+1.  [Map Drawing App](https://envisagecyberart.in/projects/applications/react-map-interface/) `react` `maps`
+
+    Click sign in. Click [+] button for searching tags, that returns a set of circles as points.
+
+    Shapes are grouped by tags, and can be toggled by the tag list on the left.
+
+    Individual shapes can be modified, as well as their outer influence shapes. Outer shapes can be dragged to increase influence.
+
+    New shapes can be drawn using the draw controls.
+
+    New places can be searched using search bar on the right.
+
+    Save button submits the current tags.
+
+1.  [Machine Learning App](https://envisagecyberart.in/projects/applications/react-block-project/) `react` `pixijs`
+
+    Photos can be tagged with shapes, selected from the left.
+
+    Photo can be uploaded as well, for adding tags to it via shapes.
+
+    Clicking submit selects the next image / adds new tags for places.
+
+    Tags can be edited by clicking shapes on the image or objects on the right.
+
+    Places / tags can be searched from respective blocks via search box.
+
+    Attraction can be changed via slider.
+
+1.  [Text Tagging Interface](https://envisagecyberart.in/projects/applications/react-text-interface/) `react`
+
+    Select a range of text to see the app in action.
+
+    Text can be tagged with tags and emotions. Nested text selections are permitted as well.
+
+    Place Quality can be changed via slider. Optionally an audio file can be uploaded as well.
+
+    Clicking submit sends the data to backend and clears the text.
+
+1.  [Image Tagging Application](https://envisagecyberart.in/projects/applications/darts/) `pixijs` `jquery`
+
+    Paste an image URL and click "Load Image" button to see the darts.
+
+    Darts can be moved, added or deleted via respective buttons.
+
+    Line and dart color can be changed via color picker. Click "Load Image" button to view any changes.
+
+    "Generate JSON" button at the bottom creates a json that can be selected and copied.
+
+1.  [Verschiffen Shipment Booking](https://envisagecyberart.in/projects/applications/verschiffen/) `react` `form` `multistep`
+
+1.  [Wegfahren Flight Booking](https://envisagecyberart.in/projects/applications/wegfahren/) `react` `form` `multistep`
+
+1.  [Notartermin Legal Service](https://envisagecyberart.in/projects/applications/notartermin/) `react` `form` `multistep`
+
+1.  [Emoji Maker](https://envisagecyberart.in/projects/applications/emoji/) `angularjs` `html2canvas`
+
+1.  [Event Log](https://envisagecyberart.in/projects/applications/event-log/) `ionic` `mysql`
+
+1.  [AI Bot Form](https://envisagecyberart.in/projects/applications/botform/) `angularjs` `gsap` `form`
+
+1.  [AgileSense MultiStep Form](https://www.agilesense.co.za/aac/) `angularjs` `form` `multistep`
+
+1.  [YouTube Playlist](https://envisagecyberart.in/projects/applications/videoplaylist/) `youtube` `jquery`
+
+1.  [Desk Viewport](https://envisagecyberart.in/projects/applications/fp-poc/) `pixijs`
+
+1.  [PixiJS SVG Performance](https://envisagecyberart.in/projects/applications/pixi-svg-perf/) `pixijs`
+
+1.  [Searchlight](https://envisagecyberart.in/projects/applications/searchlight) `canvas` `gradient`
+</details>
+
+<details>
+  <summary><h3>Dashboards</h3></summary>
+
+1.  [Agilesense Training Module](https://envisagecyberart.in/projects/agilesense/training/dashboard/) `dashboard` `tailwind` `nextjs`
+
+1.  [ECA Vue Dashboard](https://envisagecyberart.in/projects/dashboards/eca-vue-dashboard/#/dashboard) `dashboard` `vue` `material`
+
+1.  [ECA React Dashboard (WIP)](https://envisagecyberart.in/projects/dashboards/eca-react-dashboard/) `dashboard` `reactjs`
+
+1.  [Scipoeia Scientific Research](https://envisagecyberart.in/projects/dashboards/scipoeia-fe/v4/#/explorer) `dashboard` `angular`
+</details>
+
+<details>
+  <summary><h3>3D Web (three.js, WebGL)</h3></summary>
+
+1.  [Projects List](https://envisagecyberart.in/projects/threejs-experiments/)
+
+1.  [Star Wars](https://envisagecyberart.in/projects/3D/starwars/) `gsap` `spline-animation`
+
+1.  [The Workspace](https://envisagecyberart.in/projects/3D/the-workspace/) `gsap` `pointerlock-controls`
+
+1.  [India 3D](https://envisagecyberart.in/projects/3D/india/) `gsap` `react-three-fiber`
+
+1.  [City of Advertisements](https://envisagecyberart.in/projects/3D/ville-de-publicites/) `gsap` `angular`
+
+    [Zynderia 3D](https://envisagecyberart.in/projects/3D/zyn-3d/) `gsap` `angularjs`
+
+1.  [Anumys - Crypto Landing Page](https://envisagecyberart.in/projects/3D/crypto/) `gsap` `crypto`
+
+1.  [Industrial Siteplan](https://envisagecyberart.in/projects/3D/siteplan/) `orbitcontrols` `react-three-fiber`
+
+1.  [Pump Visualizer Tool](https://envisagecyberart.in/projects/3D/pump-visualizer/) `xeogl`
+
+1.  [Cap Configurator](https://envisagecyberart.in/projects/3D/cap-configurator/) `orbitcontrols` `react-three-fiber`
+
+1.  [Advertisement Billboards](https://envisagecyberart.in/projects/3D/advertisement/) `orbitcontrols`
+
+1.  [3D Pump](https://envisagecyberart.in/projects/3D/pump/) `xeogl`
+
+1.  [Grainy Image](https://pwlagency.com/contact/) `webgl`
+
+    Scroll up / down
+
+1.  [Walking Woman](https://envisagecyberart.in/projects/3D/walking-girl/) `orbitcontrols`
+
+1.  [3D Comic](https://envisagecyberart.in/projects/3D/comic/) `gsap`
+
+1.  [Blender Extrude JSON](https://envisagecyberart.in/projects/3D/extrude-json/) `orbitcontrols`
+
+1.  [3D Tunnel](https://envisagecyberart.in/projects/3D/devicemotion/) `mousemove`
+
+1.  [Christmas Tree](https://envisagecyberart.in/projects/3D/christmas-tree/)
+
+1.  [Cube of Cubes](https://envisagecyberart.in/projects/3D/cubeofcubes/)
+
+1.  [IFC Viewer](https://envisagecyberart.in/projects/3D/ifc/) `ifc`
+</details>
+
+<details>
+  <summary><h3>Web Animations</h3></summary>
+
+1.  [Tipping Jar](https://envisagecyberart.in/projects/animations/tip-jar/#/home) `physicsjs` `pixijs`
+
+    Click the `View in New Window` button to launch the animation window.
+    Then click the `Send Test` button to start the animation.
+    Change the options in the screens to view new animation.
+
+1.  [Youval Greetings](https://envisagecyberart.in/projects/animations/greetings2017/) `gsap` `fullpage`
+
+1.  [Scipoeia Animation](https://envisagecyberart.in/projects/animations/scipoeia/) `gsap` `pixijs`
+
+    Hover and click on the big planets to view more animations.
+
+1.  [Network Menu](https://envisagecyberart.in/projects/animations/network-menu/) `gsap` `menu`
+
+1.  [Dots Network](https://envisagecyberart.in/projects/animations/dots/) `gsap` `canvas`
+
+    [Dots Network Single](https://envisagecyberart.in/projects/animations/dots/single.html)
+
+1.  [GrepSale Map marker animation](https://envisagecyberart.in/projects/animations/grep-sale/) `gsap` `map`
+
+1.  [Shuffling Resumes](https://envisagecyberart.in/projects/animations/resumes/) `gsap` `pixi.js`
+
+    Scroll to bottom and move mouse on the resumes to watch them shuffle!
+
+1.  [Animated Goal Bar](https://envisagecyberart.in/projects/animations/goal-bar/) `gsap` `progressbar`
+
+1.  [Zipp Bike](https://envisagecyberart.in/projects/animations/zippbike/) `gsap` `intro`
+
+1.  [Gamer Bits](https://envisagecyberart.in/projects/animations/gbits/) `gsap` `banner`
+
+1.  [Font particles 1](https://envisagecyberart.in/projects/animations/font-particle/v1) `pixijs` `gsap`
+
+    [Font particles 2](https://envisagecyberart.in/projects/animations/font-particle/v2)
+
+    [Font particles 3](https://envisagecyberart.in/projects/animations/font-particle/v3)
+
+1.  [Mini Ad](https://envisagecyberart.in/projects/animations/ad/) `gsap` `banner`
+
+1.  [Tube Corp](https://envisagecyberart.in/projects/animations/tube-corp/) `gsap` `banner`
+
+1.  [Animated SVG Graph](https://envisagecyberart.in/projects/animations/svg/) `gsap` `svg`
+
+1.  [Badge Transition](https://envisagecyberart.in/projects/animations/badge/) `gsap` `toggle`
+
+1.  [Ask Phill](https://envisagecyberart.in/projects/animations/askphill/) `gsap` `intro`
+
+1.  [Tijori Bags](https://envisagecyberart.in/projects/animations/tijori/) `gsap` `intro`
+
+1.  [CSS 3D Gallery](https://envisagecyberart.in/projects/animations/3d-gallery/) `css-3d`
+
+1.  [Map Loader](https://envisagecyberart.in/projects/animations/map-loader/) `gsap` `map`
+
+1.  [GIF Photoshop](https://envisagecyberart.in/projects/animations/gif/) `gif` `photoshop`
+</details>
+
+<details>
+  <summary><h3>Animated Videos</h3></summary>
+
+1. [Shop & Fly with Goosebery](https://www.youtube.com/watch?v=ytnfh8YheTo) `youtube` `video`
+
+1. [Intro - Anurag Srivastava](https://www.youtube.com/watch?v=r1K-KhZuCSQ) `youtube` `video`
+</details>
+
+<details>
+  <summary><h3>Maps</h3></summary>
+
+1.  [Google Maps + three.js](https://envisagecyberart.in/projects/maps/gmap-three-follow/) `gsap` `threejs` `googlemaps`
+
+1.  [Maplibre + three.js](https://envisagecyberart.in/projects/maps/maplibre-three-follow/v2/) `gsap` `threejs` `maplibre`
+
+1.  [Maptalks + three.js custom texture](https://envisagecyberart.in/projects/maps/maptalks/v2/) `maptalks` `threejs`
+
+1.  [Map of Japan](https://envisagecyberart.in/projects/maps/japan-map/) `gsap` `interactive`
+
+</details>
+
+<details>
+  <summary><h3>Wordpress</h3></summary>
+
+1.  [Yourra! Website](https://yourra.fr/) `gsap` `wordpress`
+
+1.  [Theo Tobiasse Website](https://www.tobiasse.fr/) `gsap` `wordpress`
+
+1.  [PWL Agency](https://pwlagency.com/) `gsap` `wordpress`
+
+1.  [DCBrain](https://dcbrain.com/) `wordpress`
+
+1.  [Boox](https://boox.be/) `wordpress`
+
+1.  [TWF Flours Blog](https://dough.twfflours.com/) `wordpress`
+
 </details>
