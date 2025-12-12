@@ -101,7 +101,7 @@
 
 1.  [Floorplan Editor](https://envisagecyberart.in/projects/applications/floorplan-editor-demo/) `pixijs`
 
-1.  [Slideshow Maker](https://envisagecyberart.in/projects/applications/slideshow/#/home?ext=test-user) `angularjs` `gsap`
+1.  [Slideshow Maker](https://envisagecyberart.in/projects/applications/slideshow/#/home?ext=test) `angularjs` `gsap`
 
 1.  [Cost Optimizer](https://envisagecyberart.in/projects/applications/cost-optimizer/) `pixijs`
 
