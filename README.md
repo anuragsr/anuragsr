@@ -215,6 +215,8 @@
 
 1.  [Pump Visualizer Tool](https://envisagecyberart.in/projects/3D/pump-visualizer/) `xeogl`
 
+1.  [Configurama](https://envisagecyberart.in/projects/3D/configurama/) `orbitcontrols` `react-three-fiber`
+
 1.  [Cap Configurator](https://envisagecyberart.in/projects/3D/cap-configurator/) `orbitcontrols` `react-three-fiber`
 
 1.  [Advertisement Billboards](https://envisagecyberart.in/projects/3D/advertisement/) `orbitcontrols`
