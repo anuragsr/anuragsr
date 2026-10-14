@@ -199,6 +199,8 @@
 
 1.  [Projects List](https://envisagecyberart.in/projects/threejs-experiments/)
 
+1.  [Underwater](https://envisagecyberart.in/projects/3D/underwater/) `gsap` `react-three-fiber`
+
 1.  [Star Wars](https://envisagecyberart.in/projects/3D/starwars/) `gsap` `spline-animation`
 
 1.  [The Workspace](https://envisagecyberart.in/projects/3D/the-workspace/) `gsap` `pointerlock-controls`
