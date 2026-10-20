@@ -203,6 +203,8 @@
 
 1.  [Star Wars](https://envisagecyberart.in/projects/3D/starwars/) `gsap` `spline-animation`
 
+1.  [Jack of All Trades](https://envisagecyberart.in/projects/3D/playingcards/) `gsap` `react-three-fiber`
+
 1.  [The Workspace](https://envisagecyberart.in/projects/3D/the-workspace/) `gsap` `pointerlock-controls`
 
 1.  [India 3D](https://envisagecyberart.in/projects/3D/india/) `gsap` `react-three-fiber`
