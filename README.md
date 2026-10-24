@@ -197,13 +197,15 @@
 <details>
   <summary><h3>3D Web (three.js, WebGL)</h3></summary>
 
-1.  [Projects List](https://envisagecyberart.in/projects/threejs-experiments/)
+1.  [Projects Portfolio](https://envisagecyberart.in/threejs-portfolio/)
 
 1.  [Underwater](https://envisagecyberart.in/projects/3D/underwater/) `gsap` `react-three-fiber`
 
 1.  [Star Wars](https://envisagecyberart.in/projects/3D/starwars/) `gsap` `spline-animation`
 
-1.  [Jack of All Trades](https://envisagecyberart.in/projects/3D/playingcards/) `gsap` `react-three-fiber`
+1.  [Auvira](https://envisagecyberart.in/projects/3D/auvira/) `scroll` `gsap` `threejs`
+
+1.  [Jack of All Trades](https://envisagecyberart.in/projects/3D/playingcards/) `scroll` `gsap` `react-three-fiber`
 
 1.  [The Workspace](https://envisagecyberart.in/projects/3D/the-workspace/) `gsap` `pointerlock-controls`
 
@@ -244,6 +246,9 @@
 1.  [Cube of Cubes](https://envisagecyberart.in/projects/3D/cubeofcubes/)
 
 1.  [IFC Viewer](https://envisagecyberart.in/projects/3D/ifc/) `ifc`
+
+1.  [Old Projects List](https://envisagecyberart.in/projects/threejs-experiments/)
+
 </details>
 
 <details>
